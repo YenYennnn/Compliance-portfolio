@@ -19,13 +19,12 @@ Compliance Data Analyst | Transaction Monitoring Specialist | Risk & Operations 
   <li>
     <b>POS Compliance Dashboard</b><br/>
     Detected 15–25% inconsistencies across agents<br/>
-    <a href="#">View Project</a>
-  </li>
+    View Project
 
   <li>
     <b>Transaction Monitoring & Anomaly Detection</b><br/>
     Flagged high-risk and unusual transaction patterns<br/>
-    <a href=>https://github.com/YenYennnn/compliance-file</a>
+    View Project(https://docs.google.com/spreadsheets/d/1AolNEKV4AxTUIN0zG7Btyq9wq4k56LGM/edit?usp=drive_link&ouid=117144654990762243750&rtpof=true&sd=true)</a>
   </li>
 
   <li>
