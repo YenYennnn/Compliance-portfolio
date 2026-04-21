@@ -42,7 +42,7 @@ Excel | Google Sheets | Pivot Tables | Data Analysis | Compliance Monitoring | R
 
 <h2>📫 Contact</h2>
 
-<a href="#">LinkedIn</a> | <a href=raheemakinyemi@gmail.com</a>
+<a href="#">LinkedIn</a> | <a gmail=raheemakinyemi@gmail.com</a>
 
 
 
