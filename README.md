@@ -19,7 +19,7 @@ Compliance Data Analyst | Transaction Monitoring Specialist | Risk & Operations 
   <li>
     <b>POS Compliance Dashboard</b><br/>
     Detected 15–25% inconsistencies across agents<br/>
-    View Project
+    <a href="https://docs.google.com/spreadsheets/d/1AolNEKV4AxTUIN0zG7Btyq9wq4k56LGM/edit">Compliance Project</a>
 
   <li>
     <b>Transaction Monitoring & Anomaly Detection</b><br/>
@@ -30,7 +30,7 @@ Compliance Data Analyst | Transaction Monitoring Specialist | Risk & Operations 
   <li>
     <b>Agent Performance & Risk Ranking</b><br/>
     Ranked agents by volume, value, and compliance risk<br/>
-    [Compliance Project](https://docs.google.com/spreadsheets/d/1AolNEKV4AxTUIN0zG7Btyq9wq4k56LGM/edit?usp=drive_link&ouid=117144654990762243750&rtpof=true&sd=true)</a>
+    [Compliance Project](https://docs.google.com/spreadsheets/d/1AolNEKV4AxTUIN0zG7Btyq9wq4k56LGM/edit)
   </li>
 </ul>
 
@@ -42,7 +42,7 @@ Excel | Google Sheets | Pivot Tables | Data Analysis | Compliance Monitoring | R
 
 <h2>📫 Contact</h2>
 
-<a href="#">LinkedIn</a> | <a gmail=raheemakinyemi@gmail.com</a>
+<a href="https://docs.google.com/spreadsheets/d/1AolNEKV4AxTUIN0zG7Btyq9wq4k56LGM/edit">LinkedIn</a> | <a gmail=raheemakinyemi@gmail.com</a>
 
 
 
